@@ -38,3 +38,8 @@ nav ul li a:hover{
 .c-content{
     text-align: center;
 }
+@media (max-width: 768px) {
+    body{
+        width: 100%;
+    }
+}
